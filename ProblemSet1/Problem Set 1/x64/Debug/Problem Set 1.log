@@ -1,0 +1,6 @@
+﻿  BernsteinBasisPolynomial.cpp
+D:\SEMESTER\COS30008\ProblemSet1\Problem Set 1\BernsteinBasisPolynomial.cpp(10,20): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\SEMESTER\COS30008\ProblemSet1\Problem Set 1\BernsteinBasisPolynomial.cpp(11,20): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Main.cpp
+  Generating Code...
+  Problem Set 1.vcxproj -> D:\SEMESTER\COS30008\ProblemSet1\x64\Debug\Problem _set_1.exe

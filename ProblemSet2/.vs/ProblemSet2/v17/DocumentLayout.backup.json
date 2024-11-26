@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SEMESTER\\COS30008\\ProblemSet2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6CCAB5A-B6F6-4771-9844-DAE5F3C78485}|ProblemSet2\\ProblemSet2.vcxproj|D:\\SEMESTER\\COS30008\\ProblemSet2\\ProblemSet2\\ShakerSortableIntVector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D6CCAB5A-B6F6-4771-9844-DAE5F3C78485}|ProblemSet2\\ProblemSet2.vcxproj|solutionrelative:ProblemSet2\\ShakerSortableIntVector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6CCAB5A-B6F6-4771-9844-DAE5F3C78485}|ProblemSet2\\ProblemSet2.vcxproj|D:\\SEMESTER\\COS30008\\ProblemSet2\\ProblemSet2\\SortableIntVector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D6CCAB5A-B6F6-4771-9844-DAE5F3C78485}|ProblemSet2\\ProblemSet2.vcxproj|solutionrelative:ProblemSet2\\SortableIntVector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6CCAB5A-B6F6-4771-9844-DAE5F3C78485}|ProblemSet2\\ProblemSet2.vcxproj|D:\\SEMESTER\\COS30008\\ProblemSet2\\ProblemSet2\\IntVector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D6CCAB5A-B6F6-4771-9844-DAE5F3C78485}|ProblemSet2\\ProblemSet2.vcxproj|solutionrelative:ProblemSet2\\IntVector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6CCAB5A-B6F6-4771-9844-DAE5F3C78485}|ProblemSet2\\ProblemSet2.vcxproj|D:\\SEMESTER\\COS30008\\ProblemSet2\\ProblemSet2\\Main_PS2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D6CCAB5A-B6F6-4771-9844-DAE5F3C78485}|ProblemSet2\\ProblemSet2.vcxproj|solutionrelative:ProblemSet2\\Main_PS2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6CCAB5A-B6F6-4771-9844-DAE5F3C78485}|ProblemSet2\\ProblemSet2.vcxproj|D:\\SEMESTER\\COS30008\\ProblemSet2\\ProblemSet2\\IntVector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D6CCAB5A-B6F6-4771-9844-DAE5F3C78485}|ProblemSet2\\ProblemSet2.vcxproj|solutionrelative:ProblemSet2\\IntVector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6CCAB5A-B6F6-4771-9844-DAE5F3C78485}|ProblemSet2\\ProblemSet2.vcxproj|D:\\SEMESTER\\COS30008\\ProblemSet2\\ProblemSet2\\ShakerSortableIntVector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D6CCAB5A-B6F6-4771-9844-DAE5F3C78485}|ProblemSet2\\ProblemSet2.vcxproj|solutionrelative:ProblemSet2\\ShakerSortableIntVector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6CCAB5A-B6F6-4771-9844-DAE5F3C78485}|ProblemSet2\\ProblemSet2.vcxproj|D:\\SEMESTER\\COS30008\\ProblemSet2\\ProblemSet2\\SortableIntVector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D6CCAB5A-B6F6-4771-9844-DAE5F3C78485}|ProblemSet2\\ProblemSet2.vcxproj|solutionrelative:ProblemSet2\\SortableIntVector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SortableIntVector.h",
+              "DocumentMoniker": "D:\\SEMESTER\\COS30008\\ProblemSet2\\ProblemSet2\\SortableIntVector.h",
+              "RelativeDocumentMoniker": "ProblemSet2\\SortableIntVector.h",
+              "ToolTip": "D:\\SEMESTER\\COS30008\\ProblemSet2\\ProblemSet2\\SortableIntVector.h",
+              "RelativeToolTip": "ProblemSet2\\SortableIntVector.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-16T03:18:38.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IntVector.cpp",
+              "DocumentMoniker": "D:\\SEMESTER\\COS30008\\ProblemSet2\\ProblemSet2\\IntVector.cpp",
+              "RelativeDocumentMoniker": "ProblemSet2\\IntVector.cpp",
+              "ToolTip": "D:\\SEMESTER\\COS30008\\ProblemSet2\\ProblemSet2\\IntVector.cpp",
+              "RelativeToolTip": "ProblemSet2\\IntVector.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAuwCsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-16T01:53:56.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IntVector.h",
+              "DocumentMoniker": "D:\\SEMESTER\\COS30008\\ProblemSet2\\ProblemSet2\\IntVector.h",
+              "RelativeDocumentMoniker": "ProblemSet2\\IntVector.h",
+              "ToolTip": "D:\\SEMESTER\\COS30008\\ProblemSet2\\ProblemSet2\\IntVector.h",
+              "RelativeToolTip": "ProblemSet2\\IntVector.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-16T01:52:26.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Main_PS2.cpp",
+              "DocumentMoniker": "D:\\SEMESTER\\COS30008\\ProblemSet2\\ProblemSet2\\Main_PS2.cpp",
+              "RelativeDocumentMoniker": "ProblemSet2\\Main_PS2.cpp",
+              "ToolTip": "D:\\SEMESTER\\COS30008\\ProblemSet2\\ProblemSet2\\Main_PS2.cpp",
+              "RelativeToolTip": "ProblemSet2\\Main_PS2.cpp",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-16T01:50:17.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SortableIntVector.cpp",
+              "DocumentMoniker": "D:\\SEMESTER\\COS30008\\ProblemSet2\\ProblemSet2\\SortableIntVector.cpp",
+              "RelativeDocumentMoniker": "ProblemSet2\\SortableIntVector.cpp",
+              "ToolTip": "D:\\SEMESTER\\COS30008\\ProblemSet2\\ProblemSet2\\SortableIntVector.cpp",
+              "RelativeToolTip": "ProblemSet2\\SortableIntVector.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-16T03:18:54.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShakerSortableIntVector.cpp",
+              "DocumentMoniker": "D:\\SEMESTER\\COS30008\\ProblemSet2\\ProblemSet2\\ShakerSortableIntVector.cpp",
+              "RelativeDocumentMoniker": "ProblemSet2\\ShakerSortableIntVector.cpp",
+              "ToolTip": "D:\\SEMESTER\\COS30008\\ProblemSet2\\ProblemSet2\\ShakerSortableIntVector.cpp",
+              "RelativeToolTip": "ProblemSet2\\ShakerSortableIntVector.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-16T03:31:43.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShakerSortableIntVector.h",
+              "DocumentMoniker": "D:\\SEMESTER\\COS30008\\ProblemSet2\\ProblemSet2\\ShakerSortableIntVector.h",
+              "RelativeDocumentMoniker": "ProblemSet2\\ShakerSortableIntVector.h",
+              "ToolTip": "D:\\SEMESTER\\COS30008\\ProblemSet2\\ProblemSet2\\ShakerSortableIntVector.h",
+              "RelativeToolTip": "ProblemSet2\\ShakerSortableIntVector.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-16T03:31:01.804Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

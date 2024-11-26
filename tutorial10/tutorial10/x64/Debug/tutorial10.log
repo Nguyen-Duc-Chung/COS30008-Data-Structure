@@ -1,0 +1,16 @@
+﻿  Main.cpp
+D:\SEMESTER\COS30008\tutorial10\tutorial10\Tests.h(18,9): warning C4005: 'TEST': macro redefinition
+  (compiling source file 'Main.cpp')
+      D:\SEMESTER\COS30008\tutorial10\tutorial10\Tests.h(16,9):
+      see previous definition of 'TEST'
+  
+  SimpleString.cpp
+D:\SEMESTER\COS30008\tutorial10\tutorial10\Tests.h(18,9): warning C4005: 'TEST': macro redefinition
+  (compiling source file 'SimpleString.cpp')
+      D:\SEMESTER\COS30008\tutorial10\tutorial10\Tests.h(16,9):
+      see previous definition of 'TEST'
+  
+D:\SEMESTER\COS30008\tutorial10\tutorial10\SimpleString.cpp(49,27): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned long', possible loss of data
+D:\SEMESTER\COS30008\tutorial10\tutorial10\SimpleString.cpp(66,31): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned long', possible loss of data
+  Generating Code...
+  tutorial10.vcxproj -> D:\SEMESTER\COS30008\tutorial10\x64\Debug\tutorial10.exe

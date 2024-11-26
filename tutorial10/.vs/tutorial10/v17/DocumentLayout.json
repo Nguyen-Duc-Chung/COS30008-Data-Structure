@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SEMESTER\\COS30008\\tutorial10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0358A1DE-E57E-4E04-B019-9BFCC63F2B39}|tutorial10\\tutorial10.vcxproj|D:\\SEMESTER\\COS30008\\tutorial10\\tutorial10\\HandleImpl.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0358A1DE-E57E-4E04-B019-9BFCC63F2B39}|tutorial10\\tutorial10.vcxproj|solutionrelative:tutorial10\\HandleImpl.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0358A1DE-E57E-4E04-B019-9BFCC63F2B39}|tutorial10\\tutorial10.vcxproj|D:\\SEMESTER\\COS30008\\tutorial10\\tutorial10\\SimpleString.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0358A1DE-E57E-4E04-B019-9BFCC63F2B39}|tutorial10\\tutorial10.vcxproj|solutionrelative:tutorial10\\SimpleString.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0358A1DE-E57E-4E04-B019-9BFCC63F2B39}|tutorial10\\tutorial10.vcxproj|D:\\SEMESTER\\COS30008\\tutorial10\\tutorial10\\SimpleString.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0358A1DE-E57E-4E04-B019-9BFCC63F2B39}|tutorial10\\tutorial10.vcxproj|solutionrelative:tutorial10\\SimpleString.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0358A1DE-E57E-4E04-B019-9BFCC63F2B39}|tutorial10\\tutorial10.vcxproj|D:\\SEMESTER\\COS30008\\tutorial10\\tutorial10\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0358A1DE-E57E-4E04-B019-9BFCC63F2B39}|tutorial10\\tutorial10.vcxproj|solutionrelative:tutorial10\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0358A1DE-E57E-4E04-B019-9BFCC63F2B39}|tutorial10\\tutorial10.vcxproj|D:\\SEMESTER\\COS30008\\tutorial10\\tutorial10\\Tests.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0358A1DE-E57E-4E04-B019-9BFCC63F2B39}|tutorial10\\tutorial10.vcxproj|solutionrelative:tutorial10\\Tests.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0358A1DE-E57E-4E04-B019-9BFCC63F2B39}|tutorial10\\tutorial10.vcxproj|D:\\SEMESTER\\COS30008\\tutorial10\\tutorial10\\Handle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0358A1DE-E57E-4E04-B019-9BFCC63F2B39}|tutorial10\\tutorial10.vcxproj|solutionrelative:tutorial10\\Handle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SimpleString.cpp",
+              "DocumentMoniker": "D:\\SEMESTER\\COS30008\\tutorial10\\tutorial10\\SimpleString.cpp",
+              "RelativeDocumentMoniker": "tutorial10\\SimpleString.cpp",
+              "ToolTip": "D:\\SEMESTER\\COS30008\\tutorial10\\tutorial10\\SimpleString.cpp",
+              "RelativeToolTip": "tutorial10\\SimpleString.cpp",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAHEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-05T13:38:27.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HandleImpl.h",
+              "DocumentMoniker": "D:\\SEMESTER\\COS30008\\tutorial10\\tutorial10\\HandleImpl.h",
+              "RelativeDocumentMoniker": "tutorial10\\HandleImpl.h",
+              "ToolTip": "D:\\SEMESTER\\COS30008\\tutorial10\\tutorial10\\HandleImpl.h",
+              "RelativeToolTip": "tutorial10\\HandleImpl.h",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-05T13:37:12.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Handle.h",
+              "DocumentMoniker": "D:\\SEMESTER\\COS30008\\tutorial10\\tutorial10\\Handle.h",
+              "RelativeDocumentMoniker": "tutorial10\\Handle.h",
+              "ToolTip": "D:\\SEMESTER\\COS30008\\tutorial10\\tutorial10\\Handle.h",
+              "RelativeToolTip": "tutorial10\\Handle.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-05T09:26:42.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SimpleString.h",
+              "DocumentMoniker": "D:\\SEMESTER\\COS30008\\tutorial10\\tutorial10\\SimpleString.h",
+              "RelativeDocumentMoniker": "tutorial10\\SimpleString.h",
+              "ToolTip": "D:\\SEMESTER\\COS30008\\tutorial10\\tutorial10\\SimpleString.h",
+              "RelativeToolTip": "tutorial10\\SimpleString.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-05T09:26:25.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tests.h",
+              "DocumentMoniker": "D:\\SEMESTER\\COS30008\\tutorial10\\tutorial10\\Tests.h",
+              "RelativeDocumentMoniker": "tutorial10\\Tests.h",
+              "ToolTip": "D:\\SEMESTER\\COS30008\\tutorial10\\tutorial10\\Tests.h",
+              "RelativeToolTip": "tutorial10\\Tests.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-05T09:26:12.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "D:\\SEMESTER\\COS30008\\tutorial10\\tutorial10\\Main.cpp",
+              "RelativeDocumentMoniker": "tutorial10\\Main.cpp",
+              "ToolTip": "D:\\SEMESTER\\COS30008\\tutorial10\\tutorial10\\Main.cpp",
+              "RelativeToolTip": "tutorial10\\Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-05T09:25:33.547Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
